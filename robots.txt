@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cnn1995.github.io/Cui-ningning/sitemap.xml
+Sitemap: https://cnn1995.github.io/sitemap.xml
